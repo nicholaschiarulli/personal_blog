@@ -1,6 +1,6 @@
 {
   "name": "nicks_blog",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Personal webiste where I try to provide useful information and links. I also just talk about what I am interested in",
   "main": "index.js",
   "private": true,
