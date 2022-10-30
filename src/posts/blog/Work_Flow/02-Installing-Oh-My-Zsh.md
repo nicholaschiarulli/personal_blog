@@ -1,5 +1,6 @@
 ---
 title: How to install and use Oh My Zsh
+category: "Software"
 desc: Installing and using Oh My Zsh
 date: "2021-01-31"
 thumbnail: "../images/work-flow/oh-my-zsh.jpeg"

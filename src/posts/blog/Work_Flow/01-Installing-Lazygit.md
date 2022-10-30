@@ -1,5 +1,6 @@
 ---
 title: How to install and use Lazygit
+category: "Software"
 desc: Installing and using Lazygit for Mac and Linux(Ubuntu)
 date: "2021-01-31"
 thumbnail: "../images/work-flow/lazygit.png"
