@@ -3,7 +3,7 @@ title: "Opendime"
 category: "Bitcoin"
 date: "2022-11-01"
 desc: "Using Bitcoin as Cash? (No, not the Bitcoin Cash blockchain)"
-thumbnail: "../images/bitcoin/OpendimeThumbnail.png"
+thumbnail: "../images/bitcoin/opendime.png"
 ---
 [Opendime Website](https://opendime.com/)
 
