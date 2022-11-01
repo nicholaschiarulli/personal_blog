@@ -1,7 +1,7 @@
 ---
 title: "Why Gatsby"
 category: "Software"
-date: "2022-09-15"
+date: "2022-10-15"
 desc: "Five reasons I chose gatsby for this blog"
 thumbnail: "./images/gatsby.jpeg"
 alt: "coconut"

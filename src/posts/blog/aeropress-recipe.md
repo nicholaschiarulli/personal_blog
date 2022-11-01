@@ -1,7 +1,7 @@
 ---
 title: "Aeropress recipe and setup"
 category: "Coffee"
-date: "2022-09-16"
+date: "2022-10-16"
 desc: "What I use to make and how I make an aeropress coffee"
 thumbnail: "./images/aeropress-coffee.png"
 alt: "coconut"
