@@ -3,7 +3,7 @@ title: "Coffee Tasting: Cupping Method"
 category: "Coffee"
 date: "2022-12-06"
 desc: "Setting up coffee tasting using the Cupping method"
-thumbnail: "../images/coffee/chemex.jpg"
+thumbnail: "../images/coffee/coffee-tasting.jpg"
 ---
 
 ## Supplies
